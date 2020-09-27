@@ -16,27 +16,27 @@ Page({
     ],
     navList: [{
         icon: '/image/nav-icon/jingdian.png',
-        evenets: 'goToBangDan',
+        events: 'goToBangDan',
         text: '经典必听'
       },
       {
         icon: '/image/nav-icon/meiri.png',
-        evenets: 'goToBangDan',
+        events: 'goToBangDan',
         text: '每日听单'
       },
       {
         icon: '/image/nav-icon/qinggan.png',
-        evenets: 'goToBangDan',
+        events: 'goToBangDan',
         text: '情感电台'
       },
       {
         icon: '/image/nav-icon/zhumian.png',
-        evenets: 'goToBangDan',
+        events: 'goToBangDan',
         text: '助眠解压'
       },
       {
         icon: '/image/nav-icon/zhibo.png',
-        evenets: 'goToBangDan',
+        events: 'goToBangDan',
         text: '直播交友'
       },
     ],

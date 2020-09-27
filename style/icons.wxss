@@ -17,3 +17,7 @@
 .icon-right:before {
   content: "\e65b";
 }
+
+.icon-video:before{
+  content: "\e60e";
+}
