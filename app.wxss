@@ -2,3 +2,4 @@
 /* 引入icon样式库 */
 @import '/style/common.wxss';
 @import '/style/icons.wxss';
+@import '/style/color.wxss'

@@ -21,3 +21,31 @@
 .icon-video:before{
   content: "\e60e";
 }
+
+.icon-vip:before {
+  content: "\e620";
+}
+
+.icon-service:before {
+  content: "\e60d";
+}
+
+.icon-dateTable:before {
+  content: "\e8b4";
+}
+
+.icon-time:before {
+  content: "\e8b8";
+}
+
+.icon-tip:before {
+  content: "\e8ba";
+}
+
+.icon-write:before {
+  content: "\e8ac";
+}
+
+.icon-changeCount:before {
+  content: "\e637";
+}
