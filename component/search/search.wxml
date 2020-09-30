@@ -1,0 +1,10 @@
+<!--
+  搜索组件
+-->
+<view class="search marginTopBottom" bindtap="goToSearch">
+  <view class="search-left">
+    <text class="icon-search"></text>
+    <input placeholder="搜索你想听的节目" disabled="{{disabled}}"></input>
+  </view>
+  <view class="search-right" wx:if="{{isshow}}">取消</view>
+</view>

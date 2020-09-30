@@ -1,0 +1,142 @@
+.hmly-main{
+  width: 100%;
+}
+
+.hmly-content_{
+  width: 80%;
+  margin: 0rpx auto;
+  margin-top: 100rpx;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+/* 提示标语 */
+.hmly-slogn{
+  width: 100%;
+  height: auto;
+  font-size: 25rpx;
+  color: #c3c3c3;
+  text-align: center;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+/* 表单输入 */
+.hmly-login{
+  width: 100%;
+  height: auto;
+  margin-top: 50rpx;
+  overflow: hidden;
+}
+
+.hmly-phone-number{
+  width: 100%;
+  height: auto;
+  display: flex;
+  padding: 20rpx;
+  justify-content: flex-start;
+  align-items: center;
+  border-bottom: 0.5rpx solid #cccccc;
+}
+
+.hmly-code{
+  width: 60rpx;
+  font-size: 27rpx;
+  line-height: 60rpx;
+  text-align: center;
+  padding-right: 20rpx;
+  border-right: 1rpx solid #cccccc;
+  margin-right: 20rpx;
+  color: #cccccc;
+}
+
+.hmly-place{
+  font-size: 29rpx;
+}
+
+/* 验证码 */
+.hmly-yzm{
+  width: 100%;
+  height: auto;
+  display: flex;
+  padding: 20rpx;
+  justify-content: flex-start;
+  align-items: center;
+  box-sizing: border-box;
+  border-bottom: 0.5rpx solid #cccccc;
+}
+
+.hmly-get-code{
+  width: 200rpx;
+  font-size: 35rpx;
+  line-height: 60rpx;
+  text-align: center;
+  padding-left: 20rpx;
+  border-left: 1rpx solid #cccccc;
+  color: #cccccc;
+}
+
+.hmly-submit{
+  width: 100%;
+  height: 100rpx;
+  margin-top: 50rpx;
+  border-radius: 50rpx;
+  border: 0rpx;
+}
+
+.hmly-submit button{
+  width: 100%;
+  height: 100rpx;
+  border-radius: 50rpx;
+  border: 0rpx;
+  color: #ffffff;
+  background: #cccccc;
+  font-size: 38rpx;
+}
+
+/* 其他登录方式 */
+.hmly-wechat{
+  width: 100%;
+  height: auto;
+  margin-top: 150rpx;
+  text-align: center;
+}
+
+.hmly-tips{
+  font-size: 32rpx;
+  color: #333333;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.hmly-left-line{
+  width: 100rpx;
+  height: 3rpx;
+  background: #aaa;
+}
+
+.hmly-right-line{
+  width: 100rpx;
+  height: 3rpx;
+  background: #aaa;
+}
+
+.hmly-wechat-login{
+  width: 100%;
+  height: 100rpx;
+  margin-top: 100rpx;
+  border-radius: 50rpx;
+  border: 0rpx;
+}
+
+.hmly-wechat-login button{
+  width: 100%;
+  height: 100rpx;
+  border-radius: 50rpx;
+  border: 0rpx;
+  background: #35e500;
+  color: #ffffff;
+  font-size: 38rpx;
+}

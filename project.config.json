@@ -10,7 +10,7 @@
     "postcss": true,
     "preloadBackgroundData": false,
     "minified": true,
-    "newFeature": false,
+    "newFeature": true,
     "coverView": true,
     "nodeModules": false,
     "autoAudits": false,
@@ -67,20 +67,33 @@
       "list": []
     },
     "miniprogram": {
-      "current": 1,
+      "current": -1,
       "list": [
         {
-          "id": -1,
+          "id": 0,
           "name": "榜单页",
           "pathName": "pages/index/bangdan/bangdan",
           "query": "",
           "scene": null
         },
         {
-          "id": 1,
-          "name": "pages/user/user",
+          "id": -1,
+          "name": "user",
           "pathName": "pages/user/user",
           "query": "",
+          "scene": null
+        },
+        {
+          "id": -1,
+          "name": "phoneLogin",
+          "pathName": "pages/user/phoneLogin/phoneLogin",
+          "query": "",
+          "scene": null
+        },
+        {
+          "id": -1,
+          "name": "搜索页",
+          "pathName": "pages/search/search",
           "scene": null
         }
       ]

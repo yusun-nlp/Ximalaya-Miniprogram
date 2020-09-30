@@ -59,7 +59,7 @@ Page({
   //手机登录
   phoneLogin: function(){
     wx.navigateTo({
-      url: './phoneLogin/phoneLogin',
+      url: '/pages/user/phoneLogin/phoneLogin',
     });
   },
 
@@ -72,9 +72,9 @@ Page({
   },
 
   //切换账号
-  gtoLogin(){
+  gotoLogin(){
     wx.navigateTo({
-      url: './phoneLogin/phoneLogin',
+      url: '/pages/user/phoneLogin/phoneLogin',
     });
   },
 

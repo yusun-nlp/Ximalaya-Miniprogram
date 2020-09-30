@@ -1,5 +1,8 @@
 <!--index.wxml-->
 <!--搜索框-->
+<!-- 搜索框 -->
+<search></search>
+<!--轮播图-->
 <view class="hmly-swiper-container">
   <swiper class="hmly-swiper" autoplay="true" circular="true"
     interval="3000" easing-function="easeOutCubic"

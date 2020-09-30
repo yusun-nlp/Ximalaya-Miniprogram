@@ -14,14 +14,37 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-right:before {
-  content: "\e65b";
-}
-
-.icon-video:before{
+.icon-video:before {
   content: "\e60e";
 }
 
+.icon-jiantouUp:before {
+  content: "\e6a5";
+}
+
+.icon-jiantouDown:before {
+  content: "\e6c5";
+}
+
+.icon-share:before {
+  content: "\e609";
+}
+
+.icon-add:before {
+  content: "\e69f";
+}
+
+.icon-order:before {
+  content: "\e639";
+}
+
+.icon-list:before {
+  content: "\e632";
+}
+
+.icon-voiceprint:before {
+  content: "\e6e4";
+}
 .icon-vip:before {
   content: "\e620";
 }
@@ -29,23 +52,50 @@
 .icon-service:before {
   content: "\e60d";
 }
-
-.icon-dateTable:before {
-  content: "\e8b4";
+.icon-empty:before {
+  content: "\e608";
 }
 
-.icon-time:before {
-  content: "\e8b8";
+.icon-changeCount:before {
+  content: "\e637";
 }
 
-.icon-tip:before {
-  content: "\e8ba";
+.icon-up:before {
+  content: "\e658";
+}
+
+.icon-left:before {
+  content: "\e659";
+}
+
+.icon-down:before {
+  content: "\e65a";
+}
+
+.icon-right:before {
+  content: "\e65b";
 }
 
 .icon-write:before {
   content: "\e8ac";
 }
 
-.icon-changeCount:before {
-  content: "\e637";
+.icon-dateTable:before {
+  content: "\e8b4";
+}
+
+.icon-delete:before {
+  content: "\e8b6";
+}
+
+.icon-time:before {
+  content: "\e8b8";
+}
+
+.icon-search:before {
+  content: "\e8b9";
+}
+
+.icon-tip:before {
+  content: "\e8ba";
 }

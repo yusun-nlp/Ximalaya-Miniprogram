@@ -14,7 +14,7 @@
       </button>
     </view>
     <!--手机登录（暂未实现）-->
-    <view class="hmly-phone-login">
+    <view class="hmly-phone-login" bindtap="phoneLogin">
       <button>手机登录</button>
     </view>
   </view>
